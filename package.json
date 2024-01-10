@@ -1,0 +1,19 @@
+{
+  "name": "rust-stu-tools",
+  "displayName": "rust-stu-tools",
+  "description": "Integration of toolsets for more efficient learning.",
+  "version": "0.0.1",
+  "engines": {
+    "vscode": "^1.85.0"
+  },
+  "categories": [
+    "Extension Packs"
+  ],
+  "extensionPack": [ 
+    "zhuangtongfa.material-theme",
+    "rust-lang.rust-analyzer", 
+    "tamasfe.even-better-toml", 
+    "usernamehw.errorlens",
+    "vadimcn.vscode-lldb"
+  ]
+}
